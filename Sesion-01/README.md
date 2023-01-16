@@ -1,24 +1,31 @@
-## Sesión 1: Nombre de sesión 🤖
+## Sesión 1: Introducción a Angular y Typescript. 🤖
 
-<img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
-<div style="text-align: justify;">
 
 ### 1. Objetivos :dart: 
 
-- Reconocer el IDE Android Studio con el que desarrollan aplicaciones móviles.
-- Conocer la estructura de un proyecto android y todos los archivos generados por el IDE
+- Reconocer el uso de Angular CLI como línea de comandos para generar y administrar proyectos Angular.
+- Crear tu primer proyecto Angular.
+- Conocer la estructura de un proyecto Angular.
 
 ### 2. Contenido :blue_book:
 
-Android Studio te ayudará a desarrollar tu app más productivamente a escala. Android Studio ofrece las herramientas más rápidas para crear apps de Android. Codifica más rápido. Codifica con seguridad. Crea el mejor código. Elimina tareas tediosas. Compila sin límites.
+👀 Antes de comenzar...
+
+Debemos verificar que nuestro equipo tenga correctamente instaldo NodeJs y NPM.
+* Para verificar la versión instalada de NodeJS ejecutar el comando `node -v`.
+* Para verificar la versión instalada NPM ejecutar el comando `npm -v`.
+
+Para este curso usaremos Angular 15 por lo que asegúrate de tener la versión 14.20.0 o superior (16.10.0 recomendado).
+
+![](img/node_version.PNG)
 
 ---
 
 <img src="images/tools.png" align="right" height="90"> 
 
-#### <ins>Tema 1</ins>
+#### <ins>Tema 1 Angular CLI</ins>
 
-Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, viendo el significado de los distintos campos y opciones para su configuración.
+Se detalla como instalar Angular CLI para la versión actual de Angular o seleccionar una versión en específico.
 
 - [**`EJEMPLO 1`**](./Ejemplo-01)
 

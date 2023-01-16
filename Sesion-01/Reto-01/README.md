@@ -1,8 +1,8 @@
-# Reto #: Nombre del reto
+# Reto #: Instalar Version mas reciente de Angular CLI
 
 ## Objetivo
 
-- Implementar los dos tipos de errores y gestionarlos mediante las opciones del dashboard de Crashlytics.
+- Configura tu ambiente local con versión de Angular CLI 15.
 
 ## Desarrollo
 
