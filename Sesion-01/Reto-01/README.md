@@ -8,7 +8,6 @@
 
 Utiliza la línea de comandos de Angular (CLI) para instalar la versión 15 más reciente disponible.
 
-
 <details>
     <summary>Solución 1</summary>
     En caso de que actualmente la versión más reciente de Angular sea la versión 15, puedes usar el comando.
@@ -23,7 +22,7 @@ Utiliza la línea de comandos de Angular (CLI) para instalar la versión 15 más
   <summary>Solución 2</summary>
   Si la versión más reciente es superior a Angular 15, añade a tu comando el número de versión, por ejemplo:
 
-    `npm i -g @angular/cli@15.1.1`
+  `npm i -g @angular/cli@15.1.1`
 </details>
 
 </br>
