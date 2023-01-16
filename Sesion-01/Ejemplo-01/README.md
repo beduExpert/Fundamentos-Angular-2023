@@ -6,8 +6,6 @@
 * Identificar las diferentes versiones de Angular.
 * Conocer los principales comandos de Angular CLI.
 
-Aquí se debe agregar el desarrollo del ejemplo.
-
 1. Navegar al [repositorio oficial](https://www.npmjs.com/package/@angular/cli) de Angular CLI de NPM.
 
 Aquí encontraremos todas las versiones disponibles para instalar Angular CLI.

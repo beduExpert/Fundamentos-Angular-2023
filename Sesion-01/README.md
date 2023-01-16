@@ -15,7 +15,7 @@ Debemos verificar que nuestro equipo tenga correctamente instaldo NodeJs y NPM.
 * Para verificar la versión instalada de NodeJS ejecutar el comando `node -v`.
 * Para verificar la versión instalada NPM ejecutar el comando `npm -v`.
 
-Para este curso usaremos Angular 15 por lo que asegúrate de tener la versión 14.20.0 o superior (16.10.0 recomendado).
+Para este curso usaremos Angular 15 por lo que asegúrate de tener la versión 14.20.0 o superior (18.13.0 recomendado).
 
 ![](img/node_version.PNG)
 
