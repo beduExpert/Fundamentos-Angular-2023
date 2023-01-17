@@ -21,16 +21,16 @@ Una vez creado nuestro proyecto, lo podemos abrir desde nuestro editor de códig
             Cada proyecto de Angular tiene al menos una clase ngModule, este archivo es considerado el módulo raíz.
        
         * Archivos *app.component.(html|ts|scss|spec.ts)*
-            Estos 4 archivos forman parte del componente raíz de la aplicación, y cada que creemos un componente obtendremos estos 4 archivos.
+            Estos 4 archivos forman parte del componente raíz de la aplicación, y cada que creemos un componente obtendremos estos 4 archivos. En estos archivos encontramos el código usando para crear el homepage mostrado al levantar nuestro proyecto por primera vez.
  
     * Carpeta *assets*
         En esta carpeta se almacena todo lo relacionado a recursos de la aplicación, como lo son hojas de estilo, imágenes, tipos de fuente, videos, audios etc...
  
     * Archivo *index.html*
-        Es la página principal de la aplicación, se encarga de la referencia hacia los archivos de estilos y scripts.
+        Es la página principal de la aplicación, se encarga de la referencia hacia a los meta-tag, título de la página, archivos de estilos y scripts.
  
     * Archivo *styles.scss*
-        Archivo principal de estilos.
+        Archivo principal de estilos. Todos los estilos añadidos aquí o importaciones de nuevas hojas de estilos serán globales y aplicables a cualquier componente dentro de nuestra aplicación.
  
 * Archivo *angular.json*
 Este archivo contiene la configuración default para nuestra línea de comandos CLI, incluyendo opciones de configuración para realizar compilables, levantar nuestro servidor local, herramientas de testing.
