@@ -11,7 +11,7 @@
 
 👀 Antes de comenzar...
 
-Debemos verificar que nuestro equipo tenga correctamente instaldo NodeJs y NPM.
+Debemos verificar que nuestro equipo tenga correctamente instalado NodeJs y NPM.
 * Para verificar la versión instalada de NodeJS ejecutar el comando `node -v`.
 * Para verificar la versión instalada NPM ejecutar el comando `npm -v`.
 
@@ -38,8 +38,6 @@ Crearemos nuestro primer proyecto de Angular 15.
 
 ---
 
-<img src="images/emulator.jpg" align="right" height="90"> 
-
 #### <ins>Tema 3 Estructura de archivos en proyectos Angular</ins>
 
 Ahora que ya hemos creado nuestro primer proyecto, identificaremos la estructura base de archivos para cualquier proyecto de Angular.
@@ -47,6 +45,13 @@ Ahora que ya hemos creado nuestro primer proyecto, identificaremos la estructura
 - [**`EJEMPLO 3`**](./Ejemplo-03)
 
 ---
+
+#### <ins>Tema 4 Introducción a TypeScript</ins>
+
+Una vez ya conocemos la estructura de nuestro proyecto, aplicaremos las principales características de TypeScript.
+
+- [**`EJEMPLO 4`**](./Ejemplo-04)
+- [**`RETO 2`**](./Reto-01)
 
 ### 3. Postwork :memo:
 
