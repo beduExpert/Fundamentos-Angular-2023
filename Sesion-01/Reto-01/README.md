@@ -1,4 +1,4 @@
-# Reto #: Instalar Version 15 de Angular CLI
+# Reto 1: Instalar Version 15 de Angular CLI
 
 ## Objetivo
 
