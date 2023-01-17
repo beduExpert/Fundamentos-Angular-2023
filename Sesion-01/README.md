@@ -51,7 +51,7 @@ Ahora que ya hemos creado nuestro primer proyecto, identificaremos la estructura
 Una vez ya conocemos la estructura de nuestro proyecto, aplicaremos las principales características de TypeScript.
 
 - [**`EJEMPLO 4`**](./Ejemplo-04)
-- [**`RETO 2`**](./Reto-01)
+- [**`RETO 2`**](./Reto-02)
 
 ### 3. Postwork :memo:
 
