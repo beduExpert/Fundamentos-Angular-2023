@@ -28,17 +28,18 @@ Para este curso usaremos Angular 15 por lo que asegúrate de tener la versión 1
 Se detalla como instalar Angular CLI para la versión actual de Angular o seleccionar una versión en específico.
 
 - [**`EJEMPLO 1`**](./Ejemplo-01)
+- [**`RETO 1`**](./Reto-01)
 
 ---
 
 <img src="images/structure.png" align="right" height="90"> 
 
-#### <ins>Tema 2</ins>
+#### <ins>Tema 2 Primer proyecto en Angular</ins>
 
-Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
+Crearemos nuestro primer proyecto de Angular 15.
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
-- [**`RETO 1`**](./Reto-01)
+
 ---
 
 <img src="images/emulator.jpg" align="right" height="90"> 
