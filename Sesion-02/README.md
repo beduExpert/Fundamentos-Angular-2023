@@ -31,14 +31,13 @@ Una vez creados nuestros componentes, haremos uso de las distintas formas que no
 
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
-- [**`RETO 1`**](./Reto-02)
+- [**`RETO 2`**](./Reto-02)
 ---
 
 #### <ins>Tema 3: Directivas</ins>
 
 Haremos uso de las directivas básicas de Angular las cuales son fundamentales en todo tipo de proyectos
 
-- [**`RETO 2`**](./Reto-02)
 ---
 
 ### 3. Postwork :memo:
