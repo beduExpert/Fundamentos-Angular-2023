@@ -128,7 +128,7 @@ export class ComentariosComponent {
 }
 ```
 
-### Punto 3.1
+### Punto #3.1
 
 Necesitamos almacenar el valor de nuestro comentario antes de ser borrado, para eso hacemos uso de una nueva variable.
 
