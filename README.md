@@ -1,30 +1,27 @@
-# Nombre de módulo
+# Fundamentos de Angular 2023
 
 ## :wave: Bienvenid@s
 
-Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido. **Está información se basa en el alance que se encuentra en la ficaha técnica de cada módulo.**
-
+¡Bienvenido al curso Fundamentos de Angular! Este curso está diseñado para ayudarte a conocer los principios básicos de Angular, uno de los frameworks de desarrollo de aplicaciones web más populares actualmente. A lo largo del curso, aprenderás a crear aplicaciones web con Angular utilizando su arquitectura de componentes, trabajar con datos, servicios conexiones HTTP y manejar el flujo de datos en tu aplicación. Además, también aprenderás a gestionar y proteger las rutas de Angular. Estamos emocionados de que inicies este curso y esperamos que lo disfrutes. ¡Vamos a empezar!
 ## :dart: Objetivo
 
-Describir el objetivo general del módulo **Obligatorio**. (Borrar está linea una vez se hay leido) 
+Al finalizar este módulo podrás crear sofisticadas páginas web haciendo uso de los beneficios que nos ofrece desarrollar en un Framework robusto como lo es Angular.
 
 ## :gear: Requerimientos
 
-Describir los requerimientos en caso de que el módulo lo requiera **Obligatorio**. (Borrar está linea una vez se hay leido) 
+**Node.js** es un entorno de tiempo de ejecución de JavaScript de código abierto y multiplataforma que permite a los desarrolladores escribir aplicaciones del lado del servidor en JavaScript. Utiliza un modelo de E/S no bloqueante y basado en eventos, lo que lo hace adecuado para aplicaciones de red y de tiempo real de alta escalabilidad. **Node.js** se ejecuta en el motor JavaScript V8 de Google Chrome y proporciona una interfaz de línea de comandos y una biblioteca estándar para facilitar el desarrollo de aplicaciones. Además, incluye un administrador de paquetes incorporado llamado npm, que permite a los desarrolladores compartir y reutilizar fácilmente el código.
 
-## 💻 Proyecto
+#### [Descarga Node.js](https://nodejs.org/es/)
 
-Describir el proyecto en caso de que el módulo lo requiera **Obligatorio** .  (Borrar está linea una vez se hay leido)
+El editor de código recomendado es __VSCode__.
+
+Visual Studio Code (__VSCode__) es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. Según la documentación oficial, __VSCode__ es un editor de código ligero pero poderoso que se ejecuta en su escritorio y se conecta a cualquier dispositivo. Cuenta con una interfaz de usuario intuitiva, soporte para múltiples lenguajes de programación y herramientas de depuración integradas, entre otras características. Además, __VSCode__ cuenta con una amplia variedad de extensiones y complementos disponibles, que ofrecen una gran cantidad de funciones adicionales para mejorar la productividad y la eficiencia del desarrollador.
+
+#### [Descarga VSCode](https://nodejs.org/es/)
 
 ## :bookmark_tabs: Sesiones
 
-##### Describir el temario del módulo **Obligatorio** . (Borrar está linea una vez se hay leido) 
-
-- [`Sesión 01:` Nombre de la sesión 01](./Sesion-01)
-- [`Sesión 02:` Nombre de la sesión 02](./Sesion-02)
-- [`Sesión 03:` Nombre de la sesión 03](./Sesion-03)
-- [`Sesión 04:` Nombre de la sesión 04](./Sesion-04)
-- [`Sesión 05:` Nombre de la sesión 05](./Sesion-05)
-- [`Sesión 06:` Nombre de la sesión 06](./Sesion-06)
-- [`Sesión 07:` Nombre de la sesión 07](./Sesion-07)
-- [`Sesión 08:` Nombre de la sesión 08](./Sesion-08)
+- [`Sesión 01:` Introducción a Angular y Typescript.](./Sesion-01)
+- [`Sesión 02:` Templates, componentes y directivas fundamentales.](./Sesion-02)
+- [`Sesión 03:` Angular modules and routing.](./Sesion-03)
+- [`Sesión 04:` Inyección de dependencias y consumo de API REST.](./Sesion-04)
