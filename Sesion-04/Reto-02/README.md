@@ -18,7 +18,7 @@
    
    Usa el endpoint https://api.genderize.io?name={name}, donde el atributo name debe salir de un input de tu vista y la consulta ser realizada por medio de un botón en la misma vista.
 
-<!--<details> -->
+<details> 
     <summary>Solución</summary>
 
 Servicio API:
