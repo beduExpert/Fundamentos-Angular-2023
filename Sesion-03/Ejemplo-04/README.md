@@ -1,4 +1,4 @@
-# Ejemplo 03 - Protección de rutas
+# Ejemplo 04 - Protección de rutas
 
 - Identidicar el uso de Guards.
 - Proteger nuestras rutas de Angular.
