@@ -1,4 +1,4 @@
-# Sesión #2: Angular modules and routing
+# Sesión #3: Angular modules and routing
 
 ## :dart: Objetivos
 
