@@ -42,4 +42,10 @@ Haremos uso de las directivas básicas de Angular las cuales son fundamentales e
 
 ---
 
+### 3. Postwork :memo:
+
+Encuentra las indicaciones y consejos para reflejar los avances de tu proyecto de este módulo.
+
+- [**`POSTWORK SESIÓN 2`**](./Postwork/)
+
 </div>
